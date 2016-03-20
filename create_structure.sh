@@ -1,0 +1,1 @@
+mkdir app && cd app && mkdir controllers && mkdir models && mkdir routes && mkdir views && cd .. && mkdir config && cd config &&  mkdir env && cd .. && mkdir public && cd public && mkdir css && mkdir img && mkdir js && cd .. &&  tree
